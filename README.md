@@ -31,23 +31,7 @@ The game keeps track of user wins and computer wins, displaying the results at t
 With a straightforward command-line interface, players can focus on the gameplay without distractions, making it accessible to users of all skill levels.
 
 ### Sample Output
-
-Type Rock/Paper/Scissors or Q to quit: rock  
-Computer picked scissors.  
-You won!  
-
-Type Rock/Paper/Scissors or Q to quit: paper  
-Computer picked rock.  
-You won!  
-
-Type Rock/Paper/Scissors or Q to quit: scissors  
-Computer picked paper.  
-You won!  
-
-Type Rock/Paper/Scissors or Q to quit: q  
-You won 3 times.  
-The computer won 0 times.  
-Goodbye!  
+Please refer to the sample output section as reference to the python file provided.
 
 
 ## Requirements
